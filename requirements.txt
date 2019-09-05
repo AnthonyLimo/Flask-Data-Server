@@ -1,5 +1,4 @@
 flask
-africastalking==1.1.7.post4
 flask-API
 Flask-Cors
 schema
