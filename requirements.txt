@@ -1,0 +1,5 @@
+flask
+flask-API
+Flask-Cors
+schema
+requests
